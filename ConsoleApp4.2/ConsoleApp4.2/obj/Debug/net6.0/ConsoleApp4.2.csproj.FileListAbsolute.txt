@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net6.0\ConsoleApp4.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net6.0\ConsoleApp4.2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net6.0\ConsoleApp4.2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ConsoleApp4.2\ConsoleApp4.2\obj\Debug\net6.0\ConsoleApp4.2.csproj.CoreCompileInputs.cache
